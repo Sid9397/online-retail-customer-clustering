@@ -135,10 +135,9 @@ These metrics indicate strong cluster separation and compact grouping.
 
 ## 📂 Project Structure
 
-customer-segmentation-rfm-kmeans/
-│
+online-retail-customer-clustering
 ├── Online_Retail_KMeans.ipynb
-└── README.md
+├── README.md
 
 
 ---
@@ -147,3 +146,14 @@ customer-segmentation-rfm-kmeans/
 
 **Siddharth Asha**  
 Machine Learning & Data Analytics Enthusiast
+
+
+## Dataset
+
+Due to file size limitations, the dataset is not included in this repository.
+
+Dataset used:
+Online Retail Dataset (UCI Machine Learning Repository)
+
+Place the CSV file in your working directory before running the notebook.
+
